@@ -1,0 +1,10 @@
+psvm + tab = 
+
+publioc class Testing {
+
+public static void main(String[] args) {
+	sout + tab = System.out.println (); 
+}
+
+}
+

@@ -1,0 +1,9 @@
+public class PracticingCondicionals {
+    public static void main(String[] args) {
+        
+        boolean condition = false;
+        if (condition) {
+            System.out.println("We are in 2023");
+
+    }
+}
